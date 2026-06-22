@@ -1,0 +1,30 @@
+INDUSTRIAL INCIDENT REPORT
+
+Incident ID: IR-2025-017
+
+Summary:
+A hazardous gas accumulation event occurred during routine maintenance activities.
+
+Observed Conditions:
+- Elevated gas concentration.
+- Pressure fluctuations above normal operating limits.
+- Maintenance work in progress.
+
+Consequences:
+- Emergency evacuation triggered.
+- Temporary plant shutdown.
+- No casualties reported.
+
+Root Causes:
+- Delayed response to abnormal gas readings.
+- Failure to correlate maintenance activity with environmental risk signals.
+
+Lessons Learned:
+- Combine sensor readings with operational context.
+- Escalate alerts when multiple risk indicators occur simultaneously.
+- Improve predictive monitoring systems.
+
+Recommended Actions:
+- Immediate evacuation when gas and pressure anomalies coexist.
+- Automated alert generation.
+- Continuous risk assessment.
